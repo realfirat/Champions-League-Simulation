@@ -6,6 +6,3 @@ The Champions League simulation I made while learning the Python and OOP. Nothin
 - First two of each group make it to the qualifies
 - Matches' scores are calculated by team's luck and power
 - I used "PrettyTable" package for printing the groups properly
-
-If you want to run the simulation, you can try it at Replit:
-[Try the simulation here](https://replit.com/@firatsakar/Champions-League-Simulation?v=1)
